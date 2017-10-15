@@ -9,6 +9,8 @@
       padding: 0px;
       margin: 0px;
       font-family: Arial;
+      font-size: 28px;
+      color: #15116a;
 
    }
 
@@ -50,7 +52,7 @@
         background-color: #00CED1;
     }
     .mermaid{
-      margin-left: 100px;
+      margin-left: 80px;
     }
       .mermaidlist{
         text-align:center;
